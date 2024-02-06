@@ -1,4 +1,4 @@
-how the Petology game works for a user:
+How the Petology game works for a user:
 
 Adopting and Caring for Pets:
 
@@ -36,3 +36,7 @@ Economy and Transactions:
 Use the in-game currency, PET tokens, to purchase items, upgrades, and special features for your pets.
 Earn PET tokens by participating in activities, completing quests, and winning competitions within the game.
 Overall, Petology offers an immersive and interactive experience where you can raise, care for, and bond with virtual pets while exploring a vibrant and dynamic world filled with adventure, challenges, and opportunities for growth and achievement.
+
+
+
+This contract is solely for testing, trying this out in real world requires complex and additional features, measures, designs, etc. SAFU, remember, this is a test contract
